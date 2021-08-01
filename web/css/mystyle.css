@@ -1,0 +1,13 @@
+.primary-background
+{
+    background: #4dd0e1;
+}
+.margin-top
+{
+    margin-top: 100px;
+}
+
+.clip_path{
+    clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 89%, 70% 100%, 31% 90%, 0 100%, 0% 30%);
+
+}
